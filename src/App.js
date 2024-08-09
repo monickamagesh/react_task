@@ -22,7 +22,7 @@ function App() {
       <Home />
       <About />
 
-      <button onClick={getUser}> on click</button>
+      <button onClick={getUser}> on click to fetch data</button>
     </div>
   );
 }
